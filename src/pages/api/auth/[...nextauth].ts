@@ -9,3 +9,10 @@ export default NextAuth({
     }),
   ],
 })
+
+
+// FaunaDB - HTTP
+
+// Vamos usar o FaunaDB mas poder ser o firebase, supabase
+
+// PostgreeSQL, MongoDB
